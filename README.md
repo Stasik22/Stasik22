@@ -3,40 +3,29 @@
 ## About Me
 I am a Ukrainian python developer with experience in various technologies and programming languages. My goal is to build high-quality, scalable solutions that meet modern requirements. I enjoy solving complex problems and am always open to new challenges!
 
-- 🌱 Currently learning: [Technology/Programming Language]
-- 💬 Ask me about: [Technologies/Areas of Expertise]
-- 📫 How to reach me: [Your email or social media links]
+- 🌱 Currently learning: Software development 
+- 💬 Ask me about: Telegram bots,AI and anything that related to Python
+- 📫 How to reach me: You can write me on email :stanislavmats@icloud.com
 
 ## Technologies & Tools
-- **Programming Languages:** Python, JavaScript, C++, [Add other languages]
-- **Frameworks & Libraries:** React, Django, Flask, [Add other frameworks]
+- **Programming Languages:** Python, Html, Css, C++(learning)
+- **Frameworks & Libraries:** Qt, Django, Flask
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Docker, Jenkins
 
 ## My Projects
 
-### [Project Name 1]
-**Description:** A brief description of the project you worked on, such as a task management web app or a mobile health tracker.  
-**Technologies:** List of technologies used (React, Node.js, MongoDB, etc.)  
-**Repository Link:** [GitHub](https://github.com/username/project1)
-
-### [Project Name 2]
-**Description:** Another project with a short description.  
-**Technologies:** List the tools and frameworks you used.  
-**Repository Link:** [GitHub](https://github.com/username/project2)
-
-### [Project Name 3]
-**Description:** Description of the next project.  
-**Technologies:** List the technologies used.  
-**Repository Link:** [GitHub](https://github.com/username/project3)
+### Python_Telegram_Bot
+**Description:** This is a simple yet effective Telegram bot designed to help people connect and meet new friends or potential partners. The bot allows users to create profiles, browse through others, and chat with matches. It offers a streamlined, user-friendly interface and ensures privacy and security.  
+**Technologies:** Backend: Python (using the python-telegram-bot library)
+Database: MongoDB (for storing user profiles and chat history)
+Deployment: Deployed on Heroku using Docker for easy scaling 
 
 ## Education
-- **[Your University/Course]** — [Year of Graduation]
-- **Certifications:** [List any certifications if applicable]
+- **I don't have a higher education because I'm still in school.But i'm planning about it** 
+- **Certifications:** Not yet
 
-## Achievements
-- 🏆 [Winning a hackathon, participating in conferences, or other professional achievements]
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/username)
-- [Email](mailto:youremail@example.com)
+- [Email](mailto:stanislavmats@icloud.com)
