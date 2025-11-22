@@ -8,21 +8,14 @@ I am a Ukrainian python developer with experience in various technologies and pr
 - 📫 How to reach me: You can write me on email :stanislavmats@icloud.com
 
 ## Technologies & Tools
-- **Programming Languages:** Python, Html, Css, C++(learning)
-- **Frameworks & Libraries:** Qt, Django, Flask
+- **Programming Languages:** Python, HTML, CSS, C++
+- **Frameworks & Libraries:** Pygame, Flask, TelegamBotAPI, Tenserflow 
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Jenkins
-
-## My Projects
-
-### Python_Telegram_Bot
-**Description:** This is a simple yet effective Telegram bot designed to help people connect and meet new friends or potential partners. The bot allows users to create profiles, browse through others, and chat with matches. It offers a streamlined, user-friendly interface and ensures privacy and security.  
-**Technologies:** Backend: Python (using the python-telegram-bot library)
-Database: MongoDB (for storing user profiles and chat history)
-Deployment: Deployed on Heroku using Docker for easy scaling 
+- **Tools:** Git
+- **Linux** GNS5
 
 ## Education
-- **I don't have a higher education because I'm still in school.But i'm planning about it** 
+- **I don't have a higher education because I'm studying in university.** 
 - **Certifications:** Not yet
 
 
