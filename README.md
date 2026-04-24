@@ -8,7 +8,7 @@ I am a Ukrainian python developer with experience in various technologies and pr
 - 📫 How to reach me: You can write me on email :stanislavmats@icloud.com
 
 ## Technologies & Tools
-- **Programming Languages:** Python, HTML, CSS, C++
+- **Programming Languages:** Python, HTML, CSS, C, C++
 - **Frameworks & Libraries:** Pygame, Flask, TelegamBotAPI, Tenserflow 
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git
